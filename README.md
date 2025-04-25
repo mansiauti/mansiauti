@@ -4,10 +4,16 @@
   </a>
 </div>
 
-<!--
-**mansiauti/mansiauti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
 
-Here are some ideas to get you started:
+-  **Data Analyst**
+-  **Bachelor's Degree in BSc Information Technology**
+-  **Currently Pursuing Msc in Data Science/Aspiring Data Science**
+  
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mansi-auti) <a href="https://www.hackerrank.com/profile/mansiauti27" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+alt="Mansi Auti" height="30" width="40" /></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
