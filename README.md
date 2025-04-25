@@ -19,7 +19,7 @@ When I’m not analyzing trends or automating dashboards, you’ll probably find
 -  Currently Pursuing Msc in Data Science/Aspiring Data Science**
   
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mansi-auti) <a href="https://www.hackerrank.com/profile/mansiauti27" target="blank">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-auti-17b672282/) <a href="https://www.hackerrank.com/profile/mansiauti27" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
 alt="Mansi Auti" height="30" width="40" /></a>
 
@@ -34,7 +34,7 @@ alt="Mansi Auti" height="30" width="40" /></a>
 
 ##  Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mansi-auti)   [![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansiauti27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansi-auti-17b672282/)   [![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansiauti27@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
  
