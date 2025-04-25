@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lucida+Console&size=26&pause=1000&color=8CC867&width=435&lines=Hello+there%2C+I'm+Mansi+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</div>
 
 <!--
 **mansiauti/mansiauti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
