@@ -4,6 +4,8 @@
   </a>
 </div>
 
+![Mansi Auti - Data Analyst](https://github.com/GayatriBothare/Banner/blob/main/Banner%20.png)
+
 ##  About Me
 
 -  **Data Analyst**
